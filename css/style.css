@@ -1,23 +1,28 @@
 body{
     font-family: 'Montserrat', sans-serif;
 }
+
 header{
     background:#F0FFF0;
 }
+
 #action-button{
     color: white;
     background: #21B573;
     border-radius: 33px;
     padding: 0.5rem 1rem;
 }
+
 .navbar a{
     color:  black;
     margin: 1rem 1.6rem;
 }
+
 .facility{
     background: #F8FFFB;
     border-radius: 10px;
 }
+
 .facility:hover{
     background: white;
     box-sizing: border-box;
